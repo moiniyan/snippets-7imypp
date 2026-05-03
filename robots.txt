@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moiniyan.github.io/snippets-7imypp/sitemap.xml
